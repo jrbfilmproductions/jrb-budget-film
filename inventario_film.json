@@ -1,0 +1,20 @@
+{
+  "equipo": [
+    {
+      "id": "EQ-001",
+      "categoria": "Cámaras",
+      "marca": "Nikon",
+      "modelo": "D5300",
+      "estado": "Disponible",
+      "amortizacionDia": 15.0
+    },
+    {
+      "id": "EQ-002",
+      "categoria": "Cámaras",
+      "marca": "Samsung",
+      "modelo": "Galaxy S24+",
+      "estado": "Disponible",
+      "amortizacionDia": 10.0
+    }
+  ]
+}
