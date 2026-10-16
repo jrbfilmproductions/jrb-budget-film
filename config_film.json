@@ -1,0 +1,13 @@
+{
+  "moneda": "€",
+  "tarifaCamaraHora": 30.0,
+  "tarifaDronHora": 50.0,
+  "tarifaEdicionHora": 20.0,
+  "tarifaEdicionVfxHora": 35.0,
+  "tarifaDoblajeMinuto": 5.0,
+  "precioKilometro": 0.35,
+  "precioDietaDia": 15.0,
+  "contadorFactura": 1,
+  "operadorAesa": "ESP-AESA-XXXXXX",
+  "diasValidez": 15
+}
