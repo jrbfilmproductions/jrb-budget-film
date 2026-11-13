@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794542508626,
+  "timestamp": 1794542518331,
   "clientes": [
     {
       "id": "1794542073434",
@@ -11,18 +11,6 @@
       "direccion": "",
       "telefono": "610496865",
       "correo": "asdasd#asdasd@asdasd.com",
-      "redesSociales": ""
-    },
-    {
-      "id": "1794542508625",
-      "tipoCliente": "Particular",
-      "nombreOrganizacion": "",
-      "personaContacto": "",
-      "nombre": "roberto",
-      "dni": "",
-      "direccion": "",
-      "telefono": "",
-      "correo": "",
       "redesSociales": ""
     }
   ]
