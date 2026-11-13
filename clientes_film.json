@@ -1,3 +1,29 @@
 {
-  "clientes": []
+  "timestamp": 1794542508626,
+  "clientes": [
+    {
+      "id": "1794542073434",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "paco",
+      "dni": "1234567f",
+      "direccion": "",
+      "telefono": "610496865",
+      "correo": "asdasd#asdasd@asdasd.com",
+      "redesSociales": ""
+    },
+    {
+      "id": "1794542508625",
+      "tipoCliente": "Particular",
+      "nombreOrganizacion": "",
+      "personaContacto": "",
+      "nombre": "roberto",
+      "dni": "",
+      "direccion": "",
+      "telefono": "",
+      "correo": "",
+      "redesSociales": ""
+    }
+  ]
 }
