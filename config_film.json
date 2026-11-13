@@ -1,13 +1,20 @@
 {
-  "moneda": "€",
-  "tarifaCamaraHora": 30.0,
-  "tarifaDronHora": 50.0,
-  "tarifaEdicionHora": 20.0,
-  "tarifaEdicionVfxHora": 35.0,
-  "tarifaDoblajeMinuto": 5.0,
-  "precioKilometro": 0.35,
-  "precioDietaDia": 15.0,
-  "contadorFactura": 1,
-  "operadorAesa": "ESP-AESA-XXXXXX",
-  "diasValidez": 15
+  "timestamp": 1794542528953,
+  "config": {
+    "contadorFactura": 6,
+    "moneda": "€",
+    "tarifaRodajeHora": 30,
+    "tarifaEdicionHora": 25,
+    "tarifaVfxHora": 35,
+    "tarifaDoblajeMinuto": 6,
+    "precioKilometro": 0.3499999940395355,
+    "precioDietaDia": 15,
+    "recargoDronAesa": 50,
+    "recargoEntregaRaw": 30,
+    "recargoTbExtra": 10,
+    "tipoImpuesto": "IGIC",
+    "ivaPct": 7,
+    "validezDias": 15,
+    "linkPagoDefault": ""
+  }
 }
