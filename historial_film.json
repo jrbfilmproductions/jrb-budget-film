@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794542528811,
+  "timestamp": 1794542549752,
   "historial": [
     {
       "idReferencia": "JRB-2026-005",
@@ -32,8 +32,8 @@
       "rgpdAceptado": true,
       "linkPago": "",
       "incluyeDronAesa": false,
-      "estado": "Pendiente",
-      "pdfUri": ""
+      "estado": "Aceptado",
+      "pdfUri": "content:\/\/media\/external\/downloads\/215"
     },
     {
       "idReferencia": "JRB-2026-004",
