@@ -1,7 +1,7 @@
 {
-  "timestamp": 1794967490259,
+  "timestamp": 1794971193175,
   "config": {
-    "contadorFactura": 8,
+    "contadorFactura": 9,
     "moneda": "€",
     "tarifaRodajeHora": 30,
     "tarifaEdicionHora": 25,
