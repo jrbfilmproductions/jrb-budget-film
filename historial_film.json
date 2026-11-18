@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794978776062,
+  "timestamp": 1794978800359,
   "historial": [
     {
       "idReferencia": "JRB-2026-010",
@@ -32,8 +32,8 @@
       "rgpdAceptado": true,
       "linkPago": "",
       "incluyeDronAesa": false,
-      "estado": "Pendiente",
-      "pdfUri": "",
+      "estado": "Aceptado",
+      "pdfUri": "content:\/\/media\/external\/downloads\/242",
       "equipoAsignado": "",
       "estadoPago": "Pendiente Señal (30%)"
     }
