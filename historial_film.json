@@ -1,6 +1,42 @@
 {
-  "timestamp": 1794977185155,
+  "timestamp": 1794978769966,
   "historial": [
+    {
+      "idReferencia": "JRB-2026-010",
+      "cliente": "paco",
+      "tipoCliente": "Particular",
+      "identificacionCliente": "",
+      "tutorLegal": "",
+      "fechaPresupuesto": "18\/11\/2026 05:12",
+      "fechaRodaje": "Pendiente",
+      "categoriaRodaje": "Bodas y Celebraciones",
+      "detalleEspecifico": "Pack Boda Integral (Foto + Vídeo)",
+      "volumenTrabajo": 1,
+      "horasEdicion": 0,
+      "horasVfx": 0,
+      "horasColor": 0,
+      "costeLogistica": 0,
+      "coste3D": 0,
+      "totalCliente": 53.5,
+      "tipoImpuesto": "IGIC",
+      "porcentajeImpuesto": 7,
+      "aplicaIrpf": false,
+      "retenIrpfValor": 0,
+      "esBonoRegalo": false,
+      "codigoRegalo": "",
+      "beneficioLimpio": 50,
+      "anticipoRequerido": 16.05000114440918,
+      "revisiones": 2,
+      "entregaRaw": false,
+      "clausulaMeteo": true,
+      "rgpdAceptado": true,
+      "linkPago": "",
+      "incluyeDronAesa": false,
+      "estado": "Pendiente",
+      "pdfUri": "",
+      "equipoAsignado": "",
+      "estadoPago": "Pendiente Señal (30%)"
+    },
     {
       "idReferencia": "JRB-2026-009",
       "cliente": "paco",
@@ -33,7 +69,9 @@
       "linkPago": "",
       "incluyeDronAesa": false,
       "estado": "Completado",
-      "pdfUri": "content:\/\/media\/external\/downloads\/241"
+      "pdfUri": "content:\/\/media\/external\/downloads\/241",
+      "equipoAsignado": "",
+      "estadoPago": "Pendiente Señal (30%)"
     }
   ]
 }
