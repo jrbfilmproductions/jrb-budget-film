@@ -1,11 +1,19 @@
 {
-  "timestamp": 1794971132782,
+  "timestamp": 1794971147399,
   "inventario": [
     {
       "id": "1794971132782",
       "categoria": "Cámara",
       "marca": "nikon",
       "modelo": "d5300",
+      "estado": "Operativo",
+      "costeAmortizacion": 0
+    },
+    {
+      "id": "1794971147399",
+      "categoria": "Dron",
+      "marca": "dji",
+      "modelo": "mini 4 pro",
       "estado": "Operativo",
       "costeAmortizacion": 0
     }
