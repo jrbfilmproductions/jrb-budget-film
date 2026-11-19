@@ -1,5 +1,5 @@
 {
-  "timestamp": 1795068916390,
+  "timestamp": 1795068930814,
   "historial": [
     {
       "idReferencia": "TECH-2026-002",
@@ -32,8 +32,8 @@
       "respaldoDatosCliente": false,
       "rgpdAceptado": true,
       "linkPago": "",
-      "estado": "Aceptado",
-      "pdfUri": "content:\/\/media\/external\/downloads\/224",
+      "estado": "Completado",
+      "pdfUri": "content:\/\/media\/external\/downloads\/225",
       "herramientasUsadas": "",
       "estadoPago": "Diagnóstico 20€ Pendiente",
       "modeloBase": "PS5",
