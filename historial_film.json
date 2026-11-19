@@ -1,13 +1,13 @@
 {
-  "timestamp": 1795115953569,
+  "timestamp": 1795115962045,
   "historial": [
     {
-      "idReferencia": "JRB-2026-010",
-      "cliente": "paco",
+      "idReferencia": "JRB-2026-001",
+      "cliente": "Cliente Final",
       "tipoCliente": "Particular",
       "identificacionCliente": "",
       "tutorLegal": "",
-      "fechaPresupuesto": "18/11/2026 05:12",
+      "fechaPresupuesto": "19/11/2026 06:14",
       "fechaRodaje": "Pendiente",
       "categoriaRodaje": "Bodas y Celebraciones",
       "detalleEspecifico": "Pack Boda Integral (Foto + Vídeo)",
@@ -33,7 +33,7 @@
       "linkPago": "",
       "incluyeDronAesa": false,
       "estado": "Completado",
-      "pdfUri": "content://media/external/downloads/243",
+      "pdfUri": "content://media/external/downloads/222",
       "equipoAsignado": "",
       "estadoPago": "Pendiente Señal (30%)"
     }
