@@ -1,21 +1,9 @@
 {
-  "timestamp": 1794971086923,
+  "timestamp": 1795116944006,
   "clientes": [
     {
-      "id": "1794542073434",
-      "tipoCliente": "Particular",
-      "nombreOrganizacion": "",
-      "personaContacto": "",
-      "nombre": "paco",
-      "dni": "1234567f",
-      "direccion": "",
-      "telefono": "610496865",
-      "correo": "asdasd#asdasd@asdasd.com",
-      "redesSociales": ""
-    },
-    {
       "id": "1794971086923",
-      "tipoCliente": "Empresa \/ Org",
+      "tipoCliente": "Empresa / Org",
       "nombreOrganizacion": "eidetesa",
       "personaContacto": "",
       "nombre": "eidetesa",
