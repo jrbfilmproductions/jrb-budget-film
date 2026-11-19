@@ -1,17 +1,4 @@
 {
-  "timestamp": 1795116944006,
-  "clientes": [
-    {
-      "id": "1794971086923",
-      "tipoCliente": "Empresa / Org",
-      "nombreOrganizacion": "eidetesa",
-      "personaContacto": "",
-      "nombre": "eidetesa",
-      "dni": "",
-      "direccion": "",
-      "telefono": "",
-      "correo": "",
-      "redesSociales": ""
-    }
-  ]
+  "timestamp": 1795116944584,
+  "clientes": []
 }
