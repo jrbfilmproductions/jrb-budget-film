@@ -1,20 +1,3 @@
 {
-  "historial": [
-    {
-      "id": "FILM-2026-003",
-      "idReferencia": "FILM-2026-003",
-      "cliente": "prueba 1",
-      "trabajo": "Cobertura Evento (Foto + Vídeo)",
-      "fecha": "24/11/2026, 4:49:11",
-      "horas": 6.5,
-      "total": 285.28875,
-      "totalCliente": 285.28875,
-      "beneficio": 69.125,
-      "esRegalo": false,
-      "estado": "Cancelado",
-      "esFactura": false,
-      "numeroFactura": "",
-      "notas": ""
-    }
-  ]
+  "historial": []
 }
