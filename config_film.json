@@ -1,7 +1,7 @@
 {
   "config": {
     "contadorFactura": 7,
-    "contadorFacturaFilm": 2,
+    "contadorFacturaFilm": 3,
     "contadorFacturaTech": 1,
     "moneda": "€",
     "nombreImpresora": "Bambu Lab P2S + AMS 2 Pro",
