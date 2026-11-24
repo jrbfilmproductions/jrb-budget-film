@@ -6,6 +6,13 @@
       "nombre": "prueba",
       "telefono": "",
       "correo": ""
+    },
+    {
+      "id": "1795495751883",
+      "tipoCliente": "Organización",
+      "nombre": "prueba 1",
+      "telefono": "",
+      "correo": ""
     }
   ]
 }
