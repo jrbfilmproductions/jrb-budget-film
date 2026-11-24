@@ -11,9 +11,9 @@
       "totalCliente": 285.28875,
       "beneficio": 69.125,
       "esRegalo": false,
-      "estado": "Completado",
-      "esFactura": true,
-      "numeroFactura": "FAC-FILM-2026-003",
+      "estado": "Cancelado",
+      "esFactura": false,
+      "numeroFactura": "",
       "notas": ""
     }
   ]
