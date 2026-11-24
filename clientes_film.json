@@ -1,4 +1,11 @@
 {
-  "timestamp": 1795116944584,
-  "clientes": []
+  "clientes": [
+    {
+      "id": "1795492914475",
+      "tipoCliente": "Organización",
+      "nombre": "prueba",
+      "telefono": "",
+      "correo": ""
+    }
+  ]
 }
